@@ -5,4 +5,7 @@ class PagesController < ApplicationController
     def home 
 >>>>>>> site_pages
     end
+    
+    def about
+    end
 end
